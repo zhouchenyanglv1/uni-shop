@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "NavBar 导航栏",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}
